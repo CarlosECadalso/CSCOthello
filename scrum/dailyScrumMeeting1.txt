@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name: Andy Chrzaszcz      email: andrzej.chrzaszcz@mail.utoronto.ca     utorid: chrzaszc
+
+Oct 17,2019
+	What I did yesterday: Assignment not released
+	What I will do today:  Prepare for assignment by reading up on MVC and other patterns discussed in class
+	Obstacles I face: Assignment not released
+
+Oct 18,2019
+	What I did yesterday: Read on MVC
+	What I will do today: Read on Observer pattern
+	Obstacles I face: Assignment not released
+
+Oct 19,2019
+	What I did yesterday: Assignment not released
+	What I will do today: Assignment not released
+	Obstacles I face: Assignment not released
+
+Oct 20,2019
+	What I did yesterday: Assignment not released
+	What I will do today: Nothing because I have a midterm coming up
+	Obstacles I face: None
+
+Oct 21,2019
+	What I did yesterday: Nothing because I have a midterm coming up
+	What I will do today: Nothing because I have a midterm coming up
+	Obstacles I face: None
+
+Oct 22,2019
+	What I did yesterday: Nothing because I have a midterm coming up
+	What I will do today: Start project discussions
+	Obstacles I face: None
+
+Oct 23,2019
+	What I did yesterday: Emailed and discussed with group
+	What I will do today: Nothing because we have a very difficult midterm for CSC236
+	Obstacles I face: None
+
+Oct 24,2019
+	What I did yesterday: Nothing because we had a midterm from 9-10PM.
+	What I will do today: Meet with team on campus to start A2
+	Obstacles I face: None
+
+Oct 25,2019
+	What I did yesterday: Met with group to configure the project and help them with git branching
+	What I will do today: Skype with group to go over any obstacles they had and pair program where necessary
+	Obstacles I face: None
+
+Oct 26,2019
+	What I did yesterday: Skyped with group and helped resolve issues and questions. Merged in groups changes
+	What I will do today: Complete Bug 1.021 and perform clean up actions
+	Obstacles I face: Some members still have issues getting their environment setup. Made some suggestions and will help if necessary.
+
+Oct 27,2019
+	What I did yesterday: Merged in changes and finalized sprint 1
+	What I will do today: Nothing todo
+	Obstacles I face: None
+
+Oct 28,2019
+	What I did yesterday: Nothing
+	What I will do today: Discuss next sprint with team
+	Obstacles I face: None
+
+Oct 29,2019
+	What I did yesterday: Discussed new user stories
+	What I will do today: study for midterm
+	Obstacles I face: None
+
+Oct 30,2019
+	What I did yesterday: Studied
+	What I will do today: Study for mid term and check in with team mates
+	Obstacles I face: None
+
+Oct 31,2019
+	What I did yesterday: Checked in with teammates
+	What I will do today: Study for mid term
+	Obstacles I face: None
+
+Nov 1,2019
+	What I did yesterday: Study for mid term
+	What I will do today: Check in with teammates and get a view on status
+	Obstacles I face: None
+
+Nov 2,2019
+	What I did yesterday: Checked in with teammates to get status
+	What I will do today: Complete user story for sprint 2 and merge in other user stories
+	Obstacles I face: None
+
+Nov 3,2019
+	What I did yesterday: Finish user stories and merge teammates work
+	What I will do today: Nothing
+	Obstacles I face:None
+
+Nov 4,2019
+	What I did yesterday: Nothing 
+	What I will do today: Nothing
+	Obstacles I face: None
+
+Nov 5,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face:None
+
+Nov 6,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face: None
+
+Nov 7,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face: None
+
+Nov 8,2019
+	What I did yesterday: Nothing
+	What I will do today: Worked on user stories and bugs
+	Obstacles I face: None
+
+Nov 9,2019
+	What I did yesterday: Worked on user stories and bugs
+	What I will do today: Meet with group and discuss next sprint and fix any issues that arise
+	Obstacles I face: None
+
+Nov 10,2019
+	What I did yesterday: Meet with group to discuss sprint and fix isues 
+	What I will do today: Nothing
+	Obstacles I face: None
+
+Nov 11,2019
+	What I did yesterday: Nothing
+	What I will do today: Plan for clean up and read up on new patterns
+	Obstacles I face: None
+
+Nov 12,2019
+	What I did yesterday: Planned for cleanup
+	What I will do today: Nothing
+	Obstacles I face: None
+
+Nov 13,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face: None
+
+Nov 14,2019
+	What I did yesterday: Nothing
+	What I will do today: Meet with group to discuss final stages of project and help members with any issues
+	Obstacles I face: None
+
+Nov 15,2019
+	What I did yesterday: Met with group and helped group members with some of their user stories
+	What I will do today: Finish BUG 1.17
+	Obstacles I face: None
+
+Nov 16,2019
+	What I did yesterday: Finished bug 1.17
+	What I will do today: Finish User stories and bugs and help group members with any issues they are facing
+	Obstacles I face: None
+
+Nov 17,2019
+	What I did yesterday: Finished up bugs and user stories and helped group members
+	What I will do today: Finalize project
+	Obstacles I face: None
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

@@ -1,0 +1,95 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 2 Oct 27-Nov 02, 2019
+# Sprint 2 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.03 : UTORID : chrzaszc STATUS : Complete
+NAME     : Whos Next
+OWNER    : Andy
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL :  1 hour
+ISSUE    : When users play HumanVSHuman, the player that moves next is on display, 
+correctly showing the token of the next player to make a move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.04 : UTORID : cadalsor STATUS : Completed
+NAME     : Token Counter
+OWNER    : Carlos
+PRIORITY : 1
+ESTIMATE : 4 hours    ACTUAL : 3 hours  
+ISSUE    : When user play, the count for each player is on display. 
+This count shows the 
+current number of P1 tokens and P2 tokens on the board.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.05 : UTORID : boudaboo STATUS : Complete 
+NAME     : Who Won
+OWNER    : Adam
+PRIORITY : 1 (1,2,3)
+ESTIMATE : 1 day    ACTUAL : 1 hour 
+ISSUE    : When users play, the current status of the game is on display, showing the token
+of the winner of the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.06 : UTORID : lyashen3 STATUS : Complete
+NAME     : Change tokens to Images
+OWNER    : Bogdan
+PRIORITY : 1
+ESTIMATE : 4 hours    ACTUAL :  5 hours
+ISSUE    : When users are playing and the board is on display, 
+instead of displaying X and O as players, the users see 
+appropriate black/white tokens.
+
+  Notes (From Andy): Get images from client
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.07 : UTORID : boudaboo STATUS : Complete
+NAME     : Opponent Chooser GUI Selection
+OWNER    : Adam
+PRIORITY : 1 
+ESTIMATE : 2 hours     ACTUAL :  2 hours
+ISSUE    : When users are playing, they see a GUI which allows the user to 
+choose whether to play HumanVSHuman, HumanVSGreedy, HumanVSRandom.
+This user story involves
+just providing the gui for choice. After choosing, log the choice to
+the console, the game actually
+plays HumanVSHuman for now. The user should be able to switch opponents
+at any time during game play. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.071 : UTORID : lyashen3 STATUS : Complete
+NAME     : Opponent Chooser GUI Display
+OWNER    : Bogdan
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL :  2 hours
+ISSUE    : An extension to Opponent Chooser, the current player types
+are on display, so for example, 
+P1: Human  P2: Greedy 
+P1: Random P2: Human
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.08 : UTORID : chrzaszc STATUS : Complete
+NAME     : Opponent Chooser Implementation
+OWNER    : Andy
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL :  1 hour
+ISSUE    : An extension to Opponent Chooser, we implement the users choice
+of opponent, so the Human can actually play the select opponent. Reminder:
+the user should be able to switch opponents at any time during game play.
+THe current game continues with the new opponent.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.09 : UTORID :  cadalsor STATUS : Complete
+NAME     : Othello Timer Fixed Time
+OWNER    : Carlos
+PRIORITY : 1
+ESTIMATE : 1 hours    ACTUAL :  6 hours
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the time is fixed to 5 minutes/player.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------

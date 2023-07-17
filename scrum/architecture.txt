@@ -1,0 +1,118 @@
+# Use this to outline your architecture, list the design patterns
+# you used in your code and how you used them. Use a few as appropriate
+# to make your code better, using them to complicate code will not help
+# your marks. Start by looking at the design patterns we covered in class.
+
+# USED 
+Observer/Observable : Created by arnold, to be used by the View to observe the Model.
+
+The Observable is the Observable class provided to us for this assignment.
+Our GameModel, OthelloTimerHandle, and OthelloTimer class are concreteObservables.
+The Observer is the Observer interface provided to us for this assignment.
+Our ConcreteObservers are View, UndoMove, RedoMove the PlayerDisplay, nextDisplay, timer label, 
+gameTimerDisplay, PlayerPickerDisplay, gameStatusDisplay, boardButton, and HintModel
+
+
+Model, View Controller: Initially created by arnold but modified by the MarvelStudios team.
+
+We decided to write our own external controller due to the extensive nature of the features required by the 
+application and the controller is required as a GUI controller. Further, our model (GameModel) contains all 
+state required for application operation including the hints and undo/redo functionality amongst others. 
+Finally we opted to have a single view which represents the state of the application. View.java then 
+builds the necessary sub-views required to display the app. This approach allowed for us to encapsulate 
+much of the related logic into their respective classes.
+
+
+Strategy: Created by the MarvelStudios team
+
+The strategy is the abstract class PlayerStrategy.
+It has 4 subclasses also known as 4 concrete strategies. They are RandomStrategy, HumanStrategy,
+ImprovedStrategy, and GreedyStrategy. 
+This is identified as a strategy design patter because each concrete strategy is-a strategy. 
+These strategies have everything in the PlayerStrategy and implement an extra function which is getMove().
+The context here would be the Game Controller since it contains a reference to the strategy and is unaware
+of the implementation. The purpose of the approach is to handle all move logic based on the currently 
+selected players in a simplified and reusable manner. 
+
+
+Factory: Created by the MarvelStudios team
+
+The factory of this design pattern would be OthelloPlayerStrategyFactory class. Our product is 
+the PlayerStrategy and we have 4 concrete products which are RandomStrategy, HumanStartegy,
+ImprovedStrategy, and GreedyStrategy.
+Our client would be the controller since it contains the selected users however the selection logic 
+happens in the PlayerPickerDisplay.
+The way how our factory design pattern works is that the factory uses cases and matches it with
+a String. When the string is matched, a concrete product Object is created. 
+The strategy is returned and the reason for doing so is because the strategy creates a player object.
+The benefit of using the strategy pattern is it allows us to create a new Player object each time 
+we ask for a move and because of the implementation of the Undo/Redo function each new player 
+has the most up to date Othello object.
+
+
+Command: Created by the MarvelStudios team
+Our command here our own interface Command. The concrete command is the Move Command. 
+The invoker in our case would be the GameController class. 
+The client is the PlayerStrategy class, because it creates the command and adds the command to the 
+GameModel which is the receiver. 
+The way our command design pattern works is that the GameModel adds the MoveCommands objects to a 
+commands array. Once the moves are added we remove the commands, process them and place them onto 
+the undo stack which then allows us to pop the commands off and undo them if necessary.
+The UndoMove and RedoMove classes call on the undoCommands and redoCommands in GameModel.
+If we want to undo something, we pop it out of the undo stack, process it and push it into the redo stack.
+If we want to redo something, we pop it out of the redo stack process it and push it into the undo stack.
+The view basically displays the changes made.
+
+
+Visitor: Created by the MarvelStudios team
+
+Our element is our own interface Visitable.
+Our concrete elements are the OthelloBoard and Othello classes.
+Our visitor is our own Visitor interface 
+Visitor.
+Our concrete visitors are OthelloCountVisitor, OthelloWeightVisitor, and OthelloWeightedCountVisitor.
+OthelloBoard is also our object structure because it contains the state of the game (location
+of X's and O's).
+Our client is Othello because it contains a reference to OthelloBoard.
+It also acts a pass-through to visitors which are passed down to OthelloBoard. 
+Any visitor operations are passed to the OthelloBoard.
+Othello passes the visitors down to the OthelloBoard.
+Essentially, what our visitor design pattern does is allows extended functionality to the OthelloBoard without
+having to modify it. These visitors have different functionalities implemented in their visit() method
+using all the information they need acquired from the OthelloBoard.
+The OthelloBoard's accept() method enables functionality to the visitors by providing them information
+about itself and about the board it uses. 
+
+
+Iterator: Created by Team MarvelStudios
+
+Our ISIterator is the Iterator<Object> interface.
+The concrete iterator is the MoveIterator.
+Our client is the HintModel.
+Our Aggregate is the Hint Model.
+The way how our iterator works is that we increment column first then we reset the column to zero and we 
+This allows us to iterate through each row and column instead of having to iterate through a for loop.
+This occurs in the setMoves() method which depends on observable. Since the HintModel the moves are set on update.
+The way setMoves works is that it takes in all previous moves as false and then goes through a list of all
+possible moves and checks if that move has the same row and column as the current iteration.
+If it is, then it sets it true, therefore enabling it to move at the current row and column. 
+
+
+.
+
+# UNUSED
+Composite
+Decorator
+State
+Adapter
+Flyweight
+Facade
+Proxy
+Prototype
+Abstract Factory
+Bridge
+Template Method
+Builder
+Chain of Responsibility
+...
+There are more...

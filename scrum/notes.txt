@@ -1,0 +1,50 @@
+Andy Chrzaszcz (chrzaszc): 
+- My author on my commits is: Andy Chrzaszcz <andy9775@gmail.com>
+
+
+Notes:
+
+- Each button has a delay factor calculation which allows for a token flip to occur in some order out from 
+the position of the performed move. This means that if we have tokens x o o o and a user clicks the far right 
+token to flip to x x x x the buttons get flipped in the following order x 3 2 1. The purpose of this is to 
+show the board actually animating and changing. Note however the calculation is performed "as the crow flys". 
+That means that if a user clicks (4,4) and the tokens at (4,3) and (3,4) flip, since they are one position 
+away from the clicked button they get updated at the same time. This is intentional since we perform a 
+breadth first search like calculation for determining the delay factor.
+
+
+
+______________________________________________________________________________________________________________
+
+Adam BouDaboos (boudaboo):
+
+
+Notes:
+
+- One of our team members had the music causing the program not to launch and through a difference
+of Operating systems and non-native environments called InvocationTargetException in the 
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method).
+This was not a bug from our side and we are warning that a difference of operating systems in using the music effect
+may cause the application not to launch.
+
+- The music we used was from:
+https://www.youtube.com/watch?v=gZlDn4EmTvo 
+which has no copyright issues.
+
+- The image gif used also had no copyright issues.
+
+______________________________________________________________________________________________________________
+
+Team MarvelStudios (General Note):
+
+- We all have agreed on the user stories and bugs that we have worked on from the very start of each sprint.
+We have also assessed and kept track on the number of extra bugs and/or user stories that we filed 
+and have agreed that we are all fairly happy on the number of bugs and/or user stories we filed.
+We are writing this to inform you, the grader, to kindly assess us fairly and not to grade one person
+committing more than the other on this assignment. We all understand who did what and never had any arguments 
+or felt a sense of unfairness in terms of the commitment to the assignment.
+Thank you
+
+
+3e00a535eea7d32d235eab741b616f7eae87bb44 has been guaranteed to run on the lab computers - we made some 
+changes to the txt files afterwards and are concerned that perhaps some config changes may have crept in.

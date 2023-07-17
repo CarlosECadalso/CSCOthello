@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name: Carlos Enrique Cadalso-Rivero      email: carlos.cadalso@mail.utoronto.ca     utorid: cadalsor   
+
+Oct 17,2019
+	What I did yesterday: Assignment has not been released yet
+	What I will do today: Assignment has not been released yet
+	Obstacles I face: Assignment has not been released yet
+
+Oct 18,2019
+	What I did yesterday: Assignment has not been released yet
+	What I will do today: Assignment has not been released yet
+	Obstacles I face: Assignment has not been released yet
+
+Oct 19,2019
+	What I did yesterday: Assignment has not been released yet
+	What I will do today: Assignment has not been released yet
+	Obstacles I face: Assignment has not been released yet
+
+Oct 20,2019
+	What I did yesterday: Assignment had not been released yet
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Oct 21,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Oct 22,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Oct 23,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Oct 24,2019
+	What I did yesterday: 
+	What I will do today: I set up the repo and Completed BUG04
+	Obstacles I face: I had some difficulties setting up the repo, but these we solved for the most part. Note: My OthelloApplication does NOT work 
+
+Oct 25,2019
+	What I did yesterday: I setted up the repo and completed BUG04
+	What I will do today: Complete USER_STORY 1.02
+	Obstacles I face: Not having the ability to access some important data from specific classes
+
+Oct 26,2019
+	What I did yesterday: Completed USER STORY 1.02
+	What I will do today: Work on USER STORY 1.04
+	Obstacles I face: Learning the details about the different options for writing text in a window
+
+Oct 27,2019
+	What I did yesterday: Work on USER STORY 1.04
+	What I will do today: Complete 1.04
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday: Completed 1.04
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Oct 29,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Oct 30,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Oct 31,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Nov 1,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Nov 2,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: I will finish USER STORY 1.09
+	Obstacles I face: Learning about how to implement a timer
+
+Nov 3,2019
+	What I did yesterday: I finished USER STORY 1.09
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Nov 4,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Nov 5,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Nov 6,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: Implement the base work to stop players from playing if their time runs out.
+	Obstacles I face: I cannot add methods to the Othello class, so I must find a different way to use move() without switching turns.
+
+Nov 7,2019
+	What I did yesterday: Implemented the base work to stop players from playing if their time runs out.
+	What I will do today: Implement the customizable time feature.
+	Obstacles I face: I am unable to change players when a timer runs out.
+
+Nov 8,2019
+	What I did yesterday: Implement the customizable time feature.
+	What I will do today: Implement that the player with 0 time loses
+	Obstacles I face: No obstacles in particular.
+
+Nov 9,2019
+	What I did yesterday: Implement that the player with 0 time loses
+	What I will do today: Implemented the first list of priorities for PlayerImproved
+	Obstacles I face: I cannot edit Othello to add new methods
+
+Nov 10,2019
+	What I did yesterday: Implemented the first list of priorities for PlayerImproved
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Nov 11,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Nov 12,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Nov 13,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: No work for the Assignment
+	Obstacles I face: No work for the Assignment
+
+Nov 14,2019
+	What I did yesterday: No work for the Assignment
+	What I will do today: Completed USER STORY 1.15
+	Obstacles I face: Learning the vistor pattern
+
+Nov 15,2019
+	What I did yesterday: Completed USER STORY 1.15
+	What I will do today: Started implementation on USER STORY 1.26
+	Obstacles I face: Not all colours are named, so I must choose from a decently limited selection
+
+Nov 16,2019
+	What I did yesterday: Started implementation on USER STORY 1.26
+	What I will do today: Completed USER STORY 1.26, USER STORY 1.30 and BUG15.0
+	Obstacles I face: Choosing colours that fit well together and finding what switches the timer
+
+Nov 17,2019
+	What I did yesterday: Completed USER STORY 1.26, USER STORY 1.30 and BUG15.0
+	What I will do today: Completed BUG26.0
+	Obstacles I face: None
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

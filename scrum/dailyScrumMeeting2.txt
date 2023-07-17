@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name: Adam Younes A. Boudaboos   email: adam.boudaboos@mail.utoronto.ca    utorid: boudaboo   
+
+Oct 17,2019
+	What I did yesterday: Assignment not released
+	What I will do today:  Assignment not released
+	Obstacles I face: Assignment not released
+
+Oct 18,2019
+	What I did yesterday: Assignment not released
+	What I will do today: Assignment not released
+	Obstacles I face: Assignment not released
+
+Oct 19,2019
+	What I did yesterday: Assignment not released
+	What I will do today: Assignment not released
+	Obstacles I face: Assignment not released
+
+Oct 20,2019
+	What I did yesterday: Assignment not released
+	What I will do today: Nothing because I have a midterm coming up
+	Obstacles I face: Nothing
+
+Oct 21,2019
+	What I did yesterday: Nothing because I have a midterm coming up
+	What I will do today: Nothing because I have a midterm coming up
+	Obstacles I face: Nothing
+
+Oct 22,2019
+	What I did yesterday: Nothing because I have a midterm coming up
+	What I will do today: I will email my partners on the assignment plan
+	Obstacles I face: Nothing
+
+Oct 23,2019
+	What I did yesterday: Emailed and discussed with group
+	What I will do today: Nothing because we have a very difficult midterm for CSC236
+	Obstacles I face: Nothing
+
+Oct 24,2019
+	What I did yesterday: Nothing becuase we had a midterm from 9-10PM.
+	What I will do today: Meet with team on campus to start A2
+	Obstacles I face: Understanding branches and git and I found the instructions very difficult to understand.
+
+Oct 25,2019
+	What I did yesterday: I was reviewing the instructions of A2
+	What I will do today: Working on US1.01
+	Obstacles I face: My GUI was initially not working and I had to figure out whether to use gridPane, VBOX, or HBOX.
+
+Oct 26,2019
+	What I did yesterday: We met online and implemented most of sprint1.
+	What I will do today: We will meet online for final changes and discuss sprint 2.
+	Obstacles I face: Git pulling. 
+
+Oct 27,2019
+	What I did yesterday: Disucussed Sprint 2 concepts in an online meeting
+	What I will do today: Finish US1.05 and meet for discussions
+	Obstacles I face: Undertsanding how labels are called and how to resize GUI
+
+Oct 28,2019
+	What I did yesterday: Finished US1.05
+	What I will do today: Discuss new user stories
+	Obstacles I face: Getting the same output as everyone else
+
+Oct 29,2019
+	What I did yesterday: Discussed new user stories
+	What I will do today: Revise for midterm. Nothing to do today for A2
+	Obstacles I face: Time management
+
+Oct 30,2019
+	What I did yesterday: Studied for midterm. 
+	What I will do today: Try to finish US1.07
+	Obstacles I face: Time management
+
+Oct 31,2019
+	What I did yesterday: Studied for midterm. 
+	What I will do today: Study fir midterm.
+	Obstacles I face: Understanding differences between US1.07 all the way to US1.08
+
+Nov 1,2019
+	What I did yesterday: Revise for the midterm
+	What I will do today: CSC207 midterm is today so I have to revise and do the test.
+	Obstacles I face: No obstacles faced so far for this assignment
+
+Nov 2,2019
+	What I did yesterday: Did the midterm exam.
+	What I will do today: I will finish US1.07 and submit Sprint 2 with my team members.
+	Obstacles I face: Trying to get the controller game version responding appropriately to the game button pressed.
+
+Nov 3,2019
+	What I did yesterday: I finished Sprint 2 with my team members and discussed Sprint 3
+	What I will do today: Try to start working on US1.11
+	Obstacles I face: Trying to figure out how to reset the entire game.
+
+Nov 4,2019
+	What I did yesterday: Worked on US1.11
+	What I will do today: Finish up on US1.11
+	Obstacles I face: Trying to display the game again when a controller button is clicked.
+
+Nov 5,2019
+	What I did yesterday: I finished US1.11
+	What I will do today: Discuss on assigning sub-user stories for US1.10
+	Obstacles I face: Fixing a bug when the timer ends.
+
+Nov 6,2019
+	What I did yesterday: Met with a member and came up with questions to ask an instructor regarding the SprintBacklog.
+	What I will do today: Discussing a bug when the timer ends for a player to give the other player winning advantage.
+	Obstacles I face: Figuring out ways not to modify Othello model code.
+
+Nov 7,2019
+	What I did yesterday: Discussed issue of timer end's response to game.
+	What I will do today: I have an MAT223 test so just ask quick questions to an instructor.
+	Obstacles I face: Nothing
+
+Nov 8,2019
+	What I did yesterday: Asked instructor questions for clarification purposes and did my MAT223 test.
+	What I will do today: Work on a new user story and meet with team to finish Sprint3.
+	Obstacles I face: Deciding what user story is the priority to work on and clearing up load for Sprint 4.
+
+Nov 9,2019
+	What I did yesterday: Discussed sprint 4 and remaining aspects of sprint 3.
+	What I will do today: Discuss bugs and work on architecture.txt
+	Obstacles I face: Trying to get all bugs fixed.
+
+Nov 10,2019
+	What I did yesterday: Finished Sprint3
+	What I will do today: Work on US1.13
+	Obstacles I face: Understanding animation
+
+Nov 11,2019
+	What I did yesterday: Finished most of US1.13
+	What I will do today: Ask TAs and instructors opinions on US1.13
+	Obstacles I face: Trying to understand valid animation
+
+Nov 12,2019
+	What I did yesterday: Asked all remaining questions to Professor Arnold and emailed team members about plans.
+	What I will do today: Nothing except emailing team members about extra user stories. And studying for CSC236 Test 2
+	Obstacles I face: Nothing
+
+Nov 13,2019
+	What I did yesterday: Emailed team members and studies for CSC236 test
+	What I will do today: Study and write the CSC236 test
+	Obstacles I face: Understanding Professor Arnold's email about something related to user stories.
+
+Nov 14,2019
+	What I did yesterday: Did the CSC236 test and started working on US1.18 and US1.20 along with US1.13
+	What I will do today: Finish user stories and meet with team members
+	Obstacles I face: Coming up with an appropriate animation tactic
+
+Nov 15,2019
+	What I did yesterday: Met with team members and finished US1.13 and US1.18
+	What I will do today: Finish US1.20 and improve US1.13
+	Obstacles I face: Applying delay factor to US1.13
+
+Nov 16,2019
+	What I did yesterday: Finished US1.20 and tried to imporve US1.13
+	What I will do today: Try to improve US1.13, clean-up some code, comment and javadoc some code, and begin working on architecture.txt.
+	Obstacles I face: How to add a delay
+
+Nov 17,2019
+	What I did yesterday: Finished most of architecture.txt, made another user story, and tried to improve US1.13 but found it challenging so had to let another teammate improve it.
+	What I will do today: Clean up some code, javadoc and comment everything, and fix some bugs, and finish architecture.txt. Finish up on final submission.
+	Obstacles I face: Time management
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name:   Bogdan Lyashenko email: bogdan.lyashenko@mail.utoronto.ca  utorid:   lyashen3
+
+Oct 17,2019
+	What I did yesterday: Assignment not yet released
+	What I will do today: Assignment not yet released
+	Obstacles I face: Assignment not yet released
+
+Oct 18,2019
+	What I did yesterday: Assignment not yet released
+	What I will do today: Assignment not yet released
+	Obstacles I face: Assignment not yet released
+
+Oct 19,2019
+	What I did yesterday: Assignment not yet released
+	What I will do today: Assignment not yet released
+	Obstacles I face: Assignment not yet released
+
+Oct 20,2019
+	What I did yesterday: Nothing for assignment, midterm study
+	What I will do today: Nothing for assignment, midterm study
+	Obstacles I face: Nothing
+
+Oct 21,2019
+	What I did yesterday: Nothing for assignment, midterm study
+	What I will do today: Nothing for assignment, midterm study
+	Obstacles I face: Nothing
+
+Oct 22,2019
+	What I did yesterday: Nothing for assignment, midterm study
+	What I will do today: Nothing for assignment, midterm study
+	Obstacles I face: Nothing
+
+Oct 23,2019
+	What I did yesterday: Nothing for assignment, midterm study
+	What I will do today: Nothing for assignment, midterm study
+	Obstacles I face: Nothing
+
+Oct 24,2019
+	What I did yesterday: Nothing for assignment, midterm study
+	What I will do today: Met up with group, initialized plan.
+	Obstacles I face: Some issues with software/javafx. 
+
+Oct 25,2019
+	What I did yesterday: Met up with group members, got a plan set up.
+	What I will do today: Finish task 1.011 (and 1.012) and discuss with team members. 
+	Obstacles I face: Some communication issues; getting the program to work. 
+
+Oct 26,2019
+	What I did yesterday: Finish task 1.011 (and 1.012), discussed with team members.
+	What I will do today: Fixed issues with the build path.
+	Obstacles I face: Issues with getting the application running. 
+
+Oct 27,2019
+	What I did yesterday: Fix issues with the build path.
+	What I will do today: Think about User Story 1.06, do some research on Image functions.
+	Obstacles I face: Functionality of the images. 
+
+Oct 28,2019
+	What I did yesterday: Think about User Story 1.06, do research.
+	What I will do today: Complete User Story 1.06
+	Obstacles I face: Image functionality. 
+
+Oct 29,2019
+	What I did yesterday: Complete User Story 1.06
+	What I will do today: Added the token to the label.
+	Obstacles I face: Positioning the label. 
+
+Oct 30,2019
+	What I did yesterday: Add the token to the label.
+	What I will do today: Study for midterm.
+	Obstacles I face: Study for midterm.
+
+Oct 31,2019
+	What I did yesterday: Study for midterm.
+	What I will do today: Study for midterm.
+	Obstacles I face: Study for midterm. 
+
+Nov 1,2019
+	What I did yesterday: Study for midterm.
+	What I will do today: Study for midterm.
+	Obstacles I face: Study for midterm. 
+
+Nov 2,2019
+	What I did yesterday: Study for midterm.
+	What I will do today: Complete US 1.071
+	Obstacles I face: Setting up the proper event handler. 
+
+Nov 3,2019
+	What I did yesterday: Complete US 1.071
+	What I will do today: Start looking at US 1.10 
+	Obstacles I face: Thinking up of an idea for US 1.10 
+
+Nov 4,2019
+	What I did yesterday: Start looking at US 1.10
+	What I will do today: Complete US 1.10
+	Obstacles I face: Highlighting the board buttons. 
+
+Nov 5,2019
+	What I did yesterday: Complete US 1.10
+	What I will do today: Study for Stats test.
+	Obstacles I face: Study for Stats test.
+
+Nov 6,2019
+	What I did yesterday: Study for Stats test.
+	What I will do today: Study for Stats test.
+	Obstacles I face: Study for Stats test.
+
+Nov 7,2019
+	What I did yesterday: Study for Stats test.
+	What I will do today: Study for Stats test.
+	Obstacles I face: Study for Stats test. 
+
+Nov 8,2019
+	What I did yesterday: Study for Stats test.
+	What I will do today: Complete highlight for US1.10
+	Obstacles I face: Issues with objects and methods. 
+
+Nov 9,2019
+	What I did yesterday: Complete highlight for US1.10
+	What I will do today: Complete US1.14
+	Obstacles I face: New code design. 
+
+Nov 10,2019
+	What I did yesterday: Complete US1.14
+	What I will do today: Study for 236 midterm
+	Obstacles I face: Study for 236 midterm
+
+Nov 11,2019
+	What I did yesterday: Study for 236 midterm
+	What I will do today: Look over 1.14
+	Obstacles I face: Design Patterns
+
+Nov 12,2019
+	What I did yesterday: Look over 1.14
+	What I will do today: Study for 236 midterm
+	Obstacles I face: Study for 236 midterm
+
+Nov 13,2019
+	What I did yesterday: Study for 236 midterm
+	What I will do today: Study for 236 midterm
+	Obstacles I face: Study for 236 midterm
+
+Nov 14,2019
+	What I did yesterday: Study for 236 midterm
+	What I will do today: Start Bug 10.2
+	Obstacles I face: Structure
+
+Nov 15,2019
+	What I did yesterday: Start Bug 10.2
+	What I will do today: Complete Bug 10.2
+	Obstacles I face: Functionality that is required. 
+
+Nov 16,2019
+	What I did yesterday: Complete Bug 10.2
+	What I will do today: nothing, Family reasons
+	Obstacles I face: nothing, Family reasons
+
+Nov 17,2019
+	What I did yesterday: nothing, Family reasons
+	What I will do today: Complete Bug 6.00
+	Obstacles I face: Getting the code to work.
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

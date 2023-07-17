@@ -1,0 +1,354 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 4 Nov 10-Nov 16, 2019
+# Sprint 4 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.13 : UTORID : boudaboo STATUS : Complete
+NAME     : Animation
+OWNER    : Adam
+PRIORITY : 1
+ESTIMATE : 1 day     ACTUAL :  2 days
+ISSUE    : When a user makes a move, they see an animation associated
+with their placing a piece. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.14 : UTORID : lyashen3 STATUS : Complete
+NAME     : Available moves
+OWNER    : Bogdan
+PRIORITY : (1,2,3)
+ESTIMATE : 4 hours    ACTUAL :  2 hours
+ISSUE    : When a user is playing, they see the positions that they can
+move highlighted vs the positions they can't move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.15 : UTORID : cadalsor STATUS : NotStarted (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Better strategy
+OWNER    : Carlos
+PRIORITY : 1
+ESTIMATE : 4 hours    ACTUAL :  
+ISSUE    : A user can play the following, improved strategy:
+Choose a corner if available,
+otherwise choose a side if available, otherwise choose a space that
+maximizes the players presence in the middle 4 by 4 square of the board,
+otherwise choose the location maximizing the movers presence on the board. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.17 : UTORID : chrzaszc STATUS : Complete
+NAME     : Use Visitor for Othello board
+OWNER    : Andy
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL :  2 hours
+ISSUE    : There is a lot of replicated code in Othello and OthelloBoard, all of
+which visits the board in one of a few different ways. Implement the 
+visitor design pattern on the OthelloBoard and rewrite code using othello
+and othello board to now create visitors and use them as appropriate.
+
+NOTE: Some private methods could be removed as a result of this.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 9.99 : UTORID : boudaboo: STATUS : Complete
+NAME     : Architecture Document
+OWNER    : Adam
+PRIORITY : 1
+ESTIMATE : 4 days    ACTUAL : 4 days 
+ISSUE    : Complete architecture.txt outlining any interesting features about
+your design. You should outline which design patterns you used where.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 10.0 : UTORID : chrzaszc STATUS : Complete
+NAME     : Clean up
+OWNER    : Andy
+PRIORITY : 1
+ESTIMATE : 4 hours    ACTUAL :  
+ISSUE    : Prior to submitting the application to client, go through and ensure correct architecture
+          patterns are used throughout and perform necessary cleanup actions.
+          - OthelloController.PlayAMove - can we clean this up somehow
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 10.1 : UTORID : lyashen3 STATUS : Complete
+NAME     : Improve Move Highlight
+OWNER    : Bogdan
+PRIORITY : 1
+ESTIMATE : 4 hours    ACTUAL :  4 hours
+ISSUE    : Improve Functionality of Highlighting moves/hint by not referencing the GamePad. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 10.2 : UTORID : lyashen3 STATUS : Complete
+NAME     : Improve AI switching functionality
+OWNER    : Bogdan
+PRIORITY : 1
+ESTIMATE : 1 day    ACTUAL :  1 day
+ISSUE    : Improve Functionality of Switching AIs by making dropdowns. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 10.3 : UTORID : cadalsor STATUS : Complete
+NAME     : Repair Player Improved AI
+OWNER    : Carlos
+PRIORITY : 1
+ESTIMATE : 1 hours    ACTUAL :  1.5 Hour
+ISSUE    : Fix the PlayerImproved AI so that it chooses the correct play. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 11.0 : UTORID : chrzaszc STATUS : Complete
+NAME     : Fix Undo to use a command pattern
+OWNER    : Andy
+PRIORITY : 1
+ESTIMATE : 1 hours    ACTUAL :  2 Hour
+ISSUE    : Fix the undo functionality so that it uses a command pattern
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+TYPE     : BUG 12.0 : UTORID : chrzaszc STATUS : Complete
+NAME     : Add delay to animation
+OWNER    : Andy
+PRIORITY : 1
+ESTIMATE : 1 hours    ACTUAL :  1 hour
+ISSUE    : Tokens have to fade one by one. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.18 : UTORID :boudaboo STATUS : Complete
+NAME     : Add animation to start
+OWNER    : Adam
+PRIORITY : (1,2,3)
+ESTIMATE : 2 hours   ACTUAL : 1 hour
+ISSUE    : When game appears, animation should be displayed at welcome page.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.20 : UTORID :boudaboo  STATUS : Complete 
+NAME     : Adding music
+OWNER    : Adam
+PRIORITY : (1,2,3)
+ESTIMATE : 4 hours   ACTUAL :  1 hour
+ISSUE    : Add music to background in game. Reset song with reset button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.121 : UTORID : chrzaszc STATUS : Complete 
+NAME     : Redo function
+OWNER    : Andy
+PRIORITY : 1
+ESTIMATE : 1 hours   ACTUAL :  1 hour
+ISSUE    : Add the ability to redo a move
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.26 : UTORID : cadalsor  STATUS : Complete
+NAME     : Change the Window Colours
+OWNER    : Carlos
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL :  1 hour
+ISSUE    : Change the colour of all the hboxes and vboxes such that the
+window is not fully grey anymore.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.30 : UTORID : cadalsor  STATUS : Complete
+NAME     : Change the Button Colours
+OWNER    : Carlos
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL :  1 hour
+ISSUE    : Change the colour of all the buttons such that the buttons are 
+not just grey and blue anymore.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.30 : UTORID : cadalsor  STATUS : Complete
+NAME     : Change the Button Colours
+OWNER    : Carlos
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL :  1 hour
+ISSUE    : Change the colour of all the buttons such that the buttons are 
+not just grey and blue anymore.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 15.0 : UTORID : cadalsor  STATUS : Complete
+NAME     : Fix the Timer now switching correctly
+OWNER    : Carlos
+PRIORITY : 1
+ESTIMATE : 1 hours   ACTUAL :  2 hour
+ISSUE    : The timers are not switching based on the players moves. Fix that.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 16.0 : UTORID : chrzaszc STATUS : Complete
+NAME     : Fix setting the timer
+OWNER    : andy
+PRIORITY : 1
+ESTIMATE : 1 hours   ACTUAL :  30 minutes
+ISSUE    : Ensure that when updating timers during gameplay they are actually changed
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 18.0 : UTORID : chrzaszc STATUS : Complete
+NAME     : Add delay to moves
+OWNER    : andy
+PRIORITY : 1
+ESTIMATE : 1 hours   ACTUAL :  30 minutes
+ISSUE    : Ensure that the Ai moves are delayed. Therefore when selecting a 
+          AI vs AI game a user can see the moves being made.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 13.0 : UTORID : boudaboo STATUS : Complete
+NAME     : Simplify the code for BoardButton
+OWNER    : Adam
+PRIORITY : 2
+ESTIMATE : 1 hours   ACTUAL :  1 hour
+ISSUE    : The code for BoardButton is pretty messy and redundant so it must be simplified.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.27 : UTORID : boudaboo  STATUS : Complete
+NAME     : Pop-up rules
+OWNER    : Adam
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL :  1 hour
+ISSUE    : Add a pop-up window displaying game rules when rules button is clicked
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 20.0 : UTORID : cadalsor STATUS : Complete
+NAME     : Implemented WeightedCountVisitor
+OWNER    : Carlos
+PRIORITY : 2
+ESTIMATE : 1 hours   ACTUAL :  1 hour
+ISSUE    : Implemented a visitor that adds the functionality of a weighted sum
+that counts the pieces in the middle 4x4 square as more than the rest of the board.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 21.0 : UTORID : cadalsor STATUS : Complete
+NAME     : Buttons should only work for players
+OWNER    : Carlos
+PRIORITY : 2
+ESTIMATE : 1 hours   ACTUAL :  1 hour
+ISSUE    : Buttons should not work if it is not a human player's turn.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 19.0 : UTORID : boudaboo STATUS : Complete
+NAME     : Simplify BoardButton code
+OWNER    : Adam
+PRIORITY : 2
+ESTIMATE : 1 hours   ACTUAL :  1 hour
+ISSUE    : The code in BoardButton is pretty messy so simplify it.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 22.0 : UTORID : boudaboo STATUS : Complete
+NAME     : Javadoc and comment code
+OWNER    : Adam
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL :  5 hours
+ISSUE    : Javadoc all files and comment important lines and delete any unused code.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 6.00 : UTORID : lyashen3 STATUS : Completed
+NAME     : Fix hint bugs. 
+OWNER    : Bogdan
+PRIORITY : 2
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : Hint appears the same colour as the other squares. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : US1.31 : UTORID : lyashen3 STATUS : Complete
+NAME     : Add a label with the user's move.
+OWNER    : Bogdan
+PRIORITY : 2
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : Adds a label which shows which user last moved where. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 31.00 : UTORID : chrzaszc STATUS : Complete
+NAME     : Update javadocs
+OWNER    : Andy
+PRIORITY : 1
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : Document the application
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG23.00 : UTORID : boudaboo STATUS : Complete
+NAME     : Change music for copyright reasons
+OWNER    : Adam
+PRIORITY : 2
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : Change the music for copyright issues
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG24.00 : UTORID : lyashen3 STATUS : Complete
+OWNER    : Bogdan
+PRIORITY : 2
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : Fix a few small errors.   
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG25.00 : UTORID : boudaboo STATUS : Complete
+NAME     : Update game rules
+OWNER    : Adam
+PRIORITY : 2
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : Add correct rules to pop-up.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 7.00 : UTORID : lyashen3 STATUS : Completed
+NAME     : Implement an Iterator pattern. 
+OWNER    : Bogdan
+PRIORITY : 2
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : Create an Iterator pattern for displaying possible moves. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 26.0 : UTORID : cadalsor STATUS : Completed
+NAME     : Hint and last move played did not display the correct row and column. 
+OWNER    : Carlos
+PRIORITY : 2
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : Hint and last move played did were displayed to the player as if
+counting the first row and first column as the 0th row/column. While the game
+itself still counts rows and columns starting at 0, the user should not see this. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 27.0 : UTORID : chrzaszc STATUS : Complete
+NAME     : Prevent multiple game rule windows from opening
+OWNER    : Andy
+PRIORITY : 1
+ESTIMATE : 10 minutes    ACTUAL :  15 minutes
+ISSUE    : Ensure that only a single game rules window can be displayed.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 28.0 : UTORID : cadalsor STATUS : Completed
+NAME     : All windows are not re-sizable. 
+OWNER    : Carlos
+PRIORITY : 2
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : No windows should be re-sizable. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 30.0 : UTORID : boudaboo STATUS : Completed
+NAME     : Undo button shouldn't work when game over
+OWNER    : Adam
+PRIORITY : 2
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : Disable undo button when game is over.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 32.0 : UTORID : chrzaszc STATUS : Complete
+NAME     : Disable music functionality
+OWNER    : Andy
+PRIORITY : 1
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : Music has issues running on the lab computers. Remove the functionalty
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 30.1 : UTORID : chrzaszc STATUS : Complete
+NAME     : Disable undo button if game is over
+OWNER    : Andy
+PRIORITY : 1
+ESTIMATE : 10 minutes  ACTUAL :  10 minutes
+ISSUE    : Ensure that a user cannot undo a move once the game is over
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 36.0 : UTORID : chrzaszc STATUS : Complete
+NAME     : Update architecture.txt file
+OWNER    : Andy
+PRIORITY : 1
+ESTIMATE : 10 minutes  ACTUAL :  10 minutes
+ISSUE    : Fix typos in architecture file
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------

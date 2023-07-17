@@ -1,0 +1,6 @@
+Member1 name: Andy Chrzaszcz        email: andrzej.chrzaszcz@mail.utoronto.ca        utorid: chrzaszc   Mobile 905-630-9775
+Member2 name: Bogdan Lyashenko         email: bogdan.lyashenko@mail.utoronto.ca       utorid: boudaboo    Mobile: 416-829-2117
+Member3 name: Adam Younes A Boudaboos       email: adam.boudaboos@mail.utoronto.ca       utorid:    mobile: +1 437-237-1397   Skype name: live:.cid.5cffc80ee161f8c7
+Member4 name: Carlos Enrique Cadalso Rivero       email: carlos.cadalso@mail.utoronto.ca       utorid: cadalsor
+
+Coach name: Krish Chowdhary          email: krish.chowdhary@utoronto.ca

@@ -1,0 +1,44 @@
+# User Stories/Bugs (add as appropriate), modify at each Sprint Planning Meeting
+# If a USER STORY is large, break it into smaller user stories.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.19 : UTORID : STATUS : NotStarted (NotStarted,InProgress, Incomplete,Complete)
+NAME     : 
+OWNER    : 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.22 : UTORID : STATUS : NotStarted (NotStarted,InProgress, Incomplete,Complete)
+NAME     : 
+OWNER    : 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.23 : UTORID : STATUS : NotStarted (NotStarted,InProgress, Incomplete,Complete)
+NAME     : 
+OWNER    : 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.24 : UTORID : STATUS : NotStarted (NotStarted,InProgress, Incomplete,Complete)
+NAME     : 
+OWNER    : 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.25 : UTORID : STATUS : NotStarted (NotStarted,InProgress, Incomplete,Complete)
+NAME     : 
+OWNER    : 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : 
+--------------------------------------------------------------------------
